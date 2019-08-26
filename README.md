@@ -3,12 +3,12 @@
 ## Module Creation (with routes)
 
 ``` 
-@mmathias/VueModuleHelper <ComponentName>
+@mmathias/vue-module-helper <ComponentName>
 ```
 
 ## Component Creation (no routes)
 
 ``` 
-@mmathias/VueModuleHelper --path src/app/shared/components/ --routes false <ModuleName>
+@mmathias/vue-module-helper --path src/app/shared/components/ --routes false <ModuleName>
 ```
 

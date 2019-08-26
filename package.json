@@ -1,5 +1,5 @@
 {
-  "name": "VueModuleHelper",
+  "name": "@mmathias/vue-module-helper",
   "version": "1.0.0",
   "description": "Tool to aid in the creation of vue-modules and components",
   "main": "index.js",
