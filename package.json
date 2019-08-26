@@ -1,0 +1,19 @@
+{
+  "name": "VueModuleHelper",
+  "version": "1.0.0",
+  "description": "Tool to aid in the creation of vue-modules and components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathiasMonstrey/vue-module-helper.git"
+  },
+  "author": "Mathias Monstrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathiasMonstrey/vue-module-helper/issues"
+  },
+  "homepage": "https://github.com/MathiasMonstrey/vue-module-helper#readme"
+}
